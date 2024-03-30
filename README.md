@@ -1,2 +1,1 @@
-# T_rex
-jogo do Trex
+# C19-TA2
